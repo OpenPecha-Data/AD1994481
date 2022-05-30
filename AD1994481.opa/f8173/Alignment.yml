@@ -1,0 +1,22 @@
+segment_sources:
+  I96549109:
+    type: origin_type
+    relation: translation
+    language: en
+  IAA3D5322:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  61f8812d490d4129b2395c39eb3794a4:
+    I96549109: 0959cdbfb8084abd8528befa15af93a8
+    IAA3D5322: 4d3376e651cb4b0ca8f4fdcfd20adf86
+  343771ed41794225aac5f5f35545e79c:
+    I96549109: 736b07114ff04bb399602970a652972a
+    IAA3D5322: 7dc9f0befbde48ecb14018d3f671d2e4
+  b789ad8ebb454065b156f2e9dac08068:
+    I96549109: f821bd079e7543968e33851b79ff56cc
+    IAA3D5322: 4ccc3968707c42d0a59521e71ef86e86
+  f951c75c6128416ea805b933290ebbba:
+    I96549109: c1ae13c54ac045de84ed35264ae49642
+    IAA3D5322: b06671e287034627885d0e8ffaec96a4
